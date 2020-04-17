@@ -21,7 +21,7 @@ So if you have a Linux - UNiX - BSD or Mac OS you just need run following comman
 
 Where Is Location Of Snake URLs?
 -
-Snake URLs programed as tow type
+Snake URLs programed as tow type:
   - Portable
   - Installion
 
