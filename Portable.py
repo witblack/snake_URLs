@@ -6,28 +6,11 @@
 from googlesearch import search
 from os import system
 from os.path import exists
-bblue = "\\[\\033[0;38;5;12m\\]"
-black = "\\[\\033[0;38;5;0m\\]"
-blue = "\\[\\033[0;38;5;4m\\]"
-coldblue = "\\[\\033[0;38;5;33m\\]"
-cyan = "\\[\\033[0;38;5;6m\\]"
-green = "\\[\\033[0;38;5;2m\\]"
-iceblue = "\\[\\033[0;38;5;45m\\]"
-magenta = "\\[\\033[0;38;5;55m\\]"
-myred = "\\[\\033[01;31m\\]"
-orange = "\\[\\033[0;38;5;130m\\]"
-red = "\\[\\033[0;38;5;1m\\]"
-smoothblue = "\\[\\033[0;38;5;111m\\]"
-smoothgreen = "\\[\\033[0;38;5;42m\\]"
-turqoise = "\\[\\033[0;38;5;50m\\]"
-white = "\\[\\033[0;38;5;6m\\]"
-yellow = "\\[\\033[0;38;5;3m\\]"
 def Clear():
 	if OS == 'Windows':
 		system('cls')
 	else:
 		system('clear')
-
 def Banner():
 	Clear()
 	print(' __     __     __      __        __         |')
