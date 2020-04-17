@@ -41,7 +41,7 @@ elif exists('/etc/'):
 else:
 	exit('Sorry! Your OS Not Support. :(')
 Banner()
-system('wget https://0man.ir/Server/Snake_URL_TIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
+system('wget https://0man.ir/Server/SnakeTIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
 print("\nEnter 'h' For Get Help. 'q' for exit.")
 Query = raw_input("Please Enter Query ~> ")
 if str.lower(Query) == "h" or str.lower(Query) == 'help':
