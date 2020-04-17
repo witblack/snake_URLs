@@ -13,10 +13,10 @@ Who Install Snake URLs On A Linux Based Systems?
 -
 So if you have a Linux - UNiX - BSD or Mac OS you just need run following commands One By One:
   
-   1- mkdir /tmp/snake && cd /tmp/snake
-   2- git clone https://github.com/witblack/snake_URLs.git
-   3- bash Install.sh
-   4- rm -r /tmp/snake
+   - mkdir /tmp/snake && cd /tmp/snake
+   - git clone https://github.com/witblack/snake_URLs.git
+   - bash Install.sh
+   - rm -r /tmp/snake
 
 
 Where Is Location Of Snake URLs?
