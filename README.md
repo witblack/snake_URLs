@@ -15,6 +15,7 @@ So if you have a Linux - UNiX - BSD or Mac OS you just need run following comman
   
    - mkdir /tmp/snake && cd /tmp/snake
    - git clone https://github.com/witblack/snake_URLs.git
+   - chmod 777 Install.sh
    - bash Install.sh
    - rm -r /tmp/snake
 
