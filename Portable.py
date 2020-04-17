@@ -33,6 +33,7 @@ def Banner():
 	print('      \/_______/   \/_/   \/________/   \/__________/     \/_/   \/_/')
 	print("\nProgramed By WitBlack HAcker. - Web ~> Https://0man.ir")
 	print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+	print('VERSION 1.0.0')
 if exists('C:/Windows/'):
 	OS = 'Windows'
 elif exists('/etc/'):
