@@ -11,7 +11,7 @@ You just need install Snake-URLs with run 'Install.sh' file. Follow the anser of
 
 Who Install Snake URLs On A Linux Based Systems?
 -
-So if you have a Linux - UNiX - BSD or Mac OS you just need run following commands One By One:
+So if you have a Linux - UNIX - BSD or Mac OS you just need run following commands One By One:
   
    - mkdir /tmp/snake && cd /tmp/snake
    - git clone https://github.com/witblack/snake_URLs.git
