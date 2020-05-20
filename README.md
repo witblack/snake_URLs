@@ -1,5 +1,5 @@
 # snake_URLs
-Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DocDocGO - Wikipedia And More...
+Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DuckDuckGO - Wikipedia And More...
 
 
 
@@ -55,7 +55,7 @@ Supported Search Systems:
 -
   - Https://Google.com
   - Https://WikiPedia.com
-  - Https://DocDocGo.com
+  - Https://DuckDuckGo.com
   - ...
 
 Who Install Deepens On Linux Based Systems?
