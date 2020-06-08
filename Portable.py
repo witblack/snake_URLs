@@ -7,10 +7,10 @@ from googlesearch import search
 from os import system
 from os.path import exists
 def Clear():
-	if OS == 'Windows':
+	if os.name == 'nt':
 		system('cls')
 	else:
-		system('clear')
+		system('clear') #posix, mac
 def Banner():
 	Clear()
 	print(' __     __     __      __        __         |')
@@ -41,7 +41,10 @@ elif exists('/etc/'):
 else:
 	exit('Sorry! Your OS Not Support. :(')
 Banner()
-system('wget https://0man.ir/Server/SnakeTIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
+try:
+    os.system('wget https://0man.ir/Server/SnakeTIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
+except Exception as GettingError:
+    print('cannot get the package from git! Check your connection\n Error: {}', .format(GettingError))
 print("\nEnter 'h' For Get Help. 'q' for exit.")
 Query = raw_input("Please Enter Query ~> ")
 if str.lower(Query) == "h" or str.lower(Query) == 'help':
@@ -77,11 +80,11 @@ if WriteType != '':
 		File = open(SaveInFile ,'w')
 	else:
 		File = open(SaveInFile ,'a')
-for Resualt in search(Query):
+for Result in search(Query):
 	if WriteType != '':
-		File.write("\n" + Resualt)
+		File.write("\n" + Result)
 	else:
-		print(Resualt)
+		print(Result)
 if WriteType != '':
 	File.close()
 print("\n\nQuiting...")
