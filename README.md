@@ -2,14 +2,15 @@
 Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google - DuckDuckGO - Wikipedia And More...
 
 
+- [Other Projects] (https://github.com/witblack)
 
 
-Who Create A Shortcut From The Bash System ( Terminal Commands )?
+How to Create A Shortcut From The Bash System ( Terminal Commands )?
 -
 You just need install Snake-URLs with run 'Install.sh' file. Follow the anser of next question.
 
 
-Who Install Snake URLs On A Linux Based Systems?
+How to Install Snake URLs On A Linux Based Systems?
 -
 So if you have a Linux - UNIX - BSD or Mac OS you just need run following commands One By One:
   
@@ -30,7 +31,8 @@ You can run it without install. And so also you can install Snake URLs and after
 Default location for install Sanke URLs is:
     - Linux/Unix/Mac: /bin/snake
 
-Who I Can Install Script On Windows?
+
+How I Can Install Script On Windows?
 -
 You can't install this for Windwos systems becase it's only programmed for Linux based systems. Snake URLs insatlltion version don't support for windows. Don't worry! Becase you can run this script as a portable script.defore start you need install Python Compiler so download and install from:
  - https://www.python.org/downloads/windows/
