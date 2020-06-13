@@ -60,7 +60,7 @@ Supported Search Systems:
   - Https://DuckDuckGo.com
   - ...
 
-Who Install Deepens On Linux Based Systems?
+Who To Install Deepens On Linux Based Systems?
 -
 For install deepens of Snake URLs you just need run the following commands one by one.
   - pip install str
