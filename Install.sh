@@ -14,6 +14,7 @@ then
 	apt-get install pip -y;
 	pip install googlesearch;
 	pip install os;
+	pip install str;
 	mv snake_URLs/Portable.py /usr/bin/snake;
 	chmod +x /usr/bin/snake;
 	echo 'Installed Successfully'
