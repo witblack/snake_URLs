@@ -5,9 +5,10 @@
 # Email ~> admin@0man.ir
 from googlesearch import search
 from os import system
+from os import name
 from os.path import exists
 def Clear():
-	if os.name == 'nt':
+	if name == 'nt':
 		system('cls')
 	else:
 		system('clear')
@@ -78,7 +79,7 @@ if WriteType != '':
 		File = open(SaveInFile ,'a')
 for Result in search(Query):
 	if WriteType != '':
-		File.write("\n" + Result
+		File.write("\n" + Result)
 	else:
 		print(Result)
 if WriteType != '':
