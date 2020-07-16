@@ -1,2 +1,3 @@
-googlesearch
-os
+googlesearch ( Python lib )
+os ( Python lib )
+pip ( package of python 2.* )
