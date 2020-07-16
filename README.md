@@ -73,6 +73,7 @@ Deepens Of Packages:
   - Python lib googlesearch V >= 2.0.3
   - Python lib os >= 1
   - Python lib str >= 1
+  - pip package
 
 
 Progarmmer Info:
