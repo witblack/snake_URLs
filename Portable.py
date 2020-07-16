@@ -37,10 +37,10 @@ def Banner():
 if not (exists('C:/Windows/') or exists('/etc/')):
 	exit('Sorry! Your OS Not Support. :(')
 Banner()
-try:
-    os.system('wget https://0man.ir/Server/SnakeTIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
-except Exception as GettingError:
-    print('Cannot send a using TIP! Check your connection\n Error: {}', .format(GettingError))
+#try:
+#    os.system('wget https://BugZone.ir/Server/SnakeTIP.php -O /tmp/SnakeURLs_TIP 1> /dev/null 2>&1')
+#except Exception as GettingError:
+#    print('Cannot send a using TIP! Check your connection\n Error: {}', .format(GettingError))
 print("\nEnter 'h' For Get Help. 'q' for exit.")
 Query = raw_input("Please Enter Query ~> ")
 if str.lower(Query) == "h" or str.lower(Query) == 'help':
