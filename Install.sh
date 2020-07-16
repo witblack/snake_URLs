@@ -15,7 +15,7 @@ then
 	pip install googlesearch;
 	pip install os;
 	mv snake_URLs/Portable.py /usr/bin/snake;
-	chmod 555 /usr/bin/snake;
+	chmod +x /usr/bin/snake;
 	echo 'Installed Successfully'
 else
 	echo 'Error Connect To GitHub.com! Check "git" Package Be Installed.';
