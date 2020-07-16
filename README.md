@@ -77,6 +77,6 @@ Deepens Of Packages:
 
 Progarmmer Info:
 -
-Writen By WitBlack Hacker. Https://0man.ir
-VERSION: 1.0.0
+Writen By WitBlack Hacker. Https://BugZone.ir/
+VERSION: 1.0.2
 COPY RIGHT 2020
