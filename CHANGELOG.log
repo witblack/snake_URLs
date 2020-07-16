@@ -1,0 +1,16 @@
+V 1.0.0:
+--------
+1. Application Created!
+
+
+
+V 1.0.1:
+--------
+1. add a 'try' function for send using TIP.
+
+
+V 1.0.2:
+--------
+1. Application send using TIP commented. It will as Optinal option.
+2. Installion file will install pip and packages of python.
+3. Added 'pip' Packages and information at 'requires.txt'.
