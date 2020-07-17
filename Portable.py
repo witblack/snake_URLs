@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding: latin-1
 # Writed By WitBlack HAcker
-# Web ~> Https://0man.ir
-# Email ~> admin@0man.ir
+# Web ~> Https://BugZone.ir
+# Email ~> admin@bugzone.ir
 from googlesearch import search
 from os import system
 from os import name
@@ -32,7 +32,7 @@ def Banner():
 	print('    \ \ \_\_\ \  \ \ \  \ \ \__\_\ \  \ \ \______\/  \  \ \ \  \ \ \\')
 	print('     \ \_______\  \ \_\  \ \________\  \ \___________/   \ \_\  \ \_\\')
 	print('      \/_______/   \/_/   \/________/   \/__________/     \/_/   \/_/')
-	print("\nProgramed By WitBlack HAcker. - Web ~> Https://0man.ir")
+	print("\nProgramed By WitBlack HAcker. - Web ~> Https://BugZone.ir")
 	print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 	print('VERSION 1.0.2')
 if not (exists('C:/Windows/') or exists('/etc/')):
