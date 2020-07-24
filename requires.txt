@@ -1,4 +1,4 @@
 googlesearch ( Python lib )
 os ( Python lib )
-str ( Python lib )
+string ( Python lib )
 pip ( package of python 2.* )
