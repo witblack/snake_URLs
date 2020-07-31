@@ -100,5 +100,5 @@ admin@bugzone.ir
 Progarmmer Info:
 -
 Writen By WitBlack Hacker. Https://BugZone.ir/
-VERSION: 1.0.2
+VERSION: 1.0.4
 COPY RIGHT 2020
