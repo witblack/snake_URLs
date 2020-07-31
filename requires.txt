@@ -11,3 +11,7 @@ mv
 chmod
 pip
 rm
+echo
+touch
+pip
+apt
