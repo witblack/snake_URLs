@@ -1,4 +1,13 @@
+for run script deepnds:
+-----------------------------
 googlesearch ( Python lib )
 os ( Python lib )
 string ( Python lib )
-pip ( package of python 2.* )
+
+
+for run install script:
+----------------------------
+mv
+chmod
+pip
+rm
