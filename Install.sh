@@ -22,5 +22,8 @@ else
 	echo 'Error Connect To GitHub.com! Check "git" Package Be Installed.';
 	COD=1;
 fi
-rm -r /tmp/Snake_URLs_Installer 1> /dev/null 2>&1;
+if [$COD == 0]
+then
+	rm -r /tmp/Snake_URLs_Installer 1> /dev/null 2>&1;
+fi
 exit $COD;
