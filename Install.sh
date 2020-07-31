@@ -4,14 +4,15 @@ if [[ $EUID -ne 0 ]]; then
    exit 1;
 fi
 COD=0;
-mkdir /tmp/Snake_URLs_Installer 1> /dev/null 2>&1;
+mkdir /tmp/Snake_URLs_Installer > /dev/null;
 cd /tmp/Snake_URLs_Installer;
 touch ERRORS;
 git clone https://github.com/witblack/snake_URLs.git 2> /dev/null 1> ERRORS;
 ERRORS=$(cat ERRORS);
 if [$ERRORS == ''];
 then
-	apt-get install pip -y;
+	apt-get install pip -y > /dev/null;
+	python -V > /dev/null || apt-get install python
 	pip install googlesearch;
 	pip install os;
 	pip install str;
