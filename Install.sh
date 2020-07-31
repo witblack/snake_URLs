@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 if [[ $EUID -ne 0 ]]; then
-   echo "Please Run Script As Root User." ;
+   echo "Please Run Script As Root User.";
    exit 1;
 fi
 COD=0;
@@ -17,7 +17,7 @@ then
 	pip install str;
 	mv snake_URLs/Portable.py /usr/bin/snake;
 	chmod +x /usr/bin/snake;
-	echo 'Installed Successfully'
+	echo 'Installed Successfully';
 else
 	echo 'Error Connect To GitHub.com! Check "git" Package Be Installed.';
 	COD=1;
