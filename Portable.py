@@ -94,7 +94,7 @@ def Banner():
 	print('      \/_______/   \/_/   \/________/   \/__________/     \/_/   \/_/')
 	print("\nProgramed By WitBlack HAcker. - Web ~> Https://BugZone.ir")
 	print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-	print('VERSION 1.0.3')
+	print('VERSION 1.0.4')
 if not (exists('C:/Windows/') or exists('/etc/')):
 	exit('Sorry! Your OS Not Support. :(')
 Banner()
