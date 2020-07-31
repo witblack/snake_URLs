@@ -17,7 +17,7 @@ then
 	pip install str;
 	mv snake_URLs/Portable.py /usr/bin/snake;
 	chmod +x /usr/bin/snake;
-	echo 'Installed Successfully';
+	echo 'Installed Successfully. Command: snake';
 else
 	echo 'Error Connect To GitHub.com! Check "git" Package Be Installed.';
 	COD=1;
