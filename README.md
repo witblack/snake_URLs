@@ -71,8 +71,8 @@ Deepens Of Packages:
 -
   - Python2 or Python3
   - Python lib googlesearch V >= 2.0.3
-  - Python lib os >= 1
-  - Python lib str >= 1
+  - Python lib os
+  - Python lib str
   - pip package
 
 
