@@ -5,9 +5,11 @@ Snake URLs A Powerfull fuzzer Tools. Search And Find Report Results From Google 
 - [Other Projects] (https://github.com/witblack)
 
 
+
 How to Create A Shortcut From The Bash System ( Terminal Commands )?
 -
 You just need install Snake-URLs with run 'Install.sh' file. Follow the anser of next question.
+
 
 
 How to Install Snake URLs On A Linux Based Systems?
@@ -21,6 +23,7 @@ So if you have a Linux - UNIX - BSD or Mac OS you just need run following comman
    - rm -r /tmp/snake
 
 
+
 Where Is Location Of Snake URLs?
 -
 Snake URLs programed as tow type:
@@ -30,6 +33,7 @@ Snake URLs programed as tow type:
 You can run it without install. And so also you can install Snake URLs and after intstalled script use this.
 Default location for install Sanke URLs is:
     - Linux/Unix/Mac: /bin/snake
+
 
 
 How I Can Install Script On Windows?
@@ -44,6 +48,8 @@ Enjoy!
 
 as next step you need download zip file from the this page. Extract zip file. Move Portable.py and delete more files. 
 
+
+
 Supported Operation Systems:
 -
   - Linux ( APT - RPM - PACMAN - ...)
@@ -52,7 +58,9 @@ Supported Operation Systems:
   - BSD
   - Mac
   - Android
-  
+
+
+
 Supported Search Systems:
 -
   - Https://Google.com
@@ -60,12 +68,16 @@ Supported Search Systems:
   - Https://DuckDuckGo.com
   - ...
 
+
+
 Who To Install Deepens On Linux Based Systems?
 -
 For install deepens of Snake URLs you just need run the following commands one by one.
   - pip install str
   - pip install google
   - pip install os
+
+
 
 Deepens Of Packages:
 -
@@ -81,6 +93,8 @@ Deepens Of Packages:
   - echo
   - pip
   - apt ( only for debian systems )
+
+
 
 Contact us:
 -
@@ -101,6 +115,7 @@ Https://github.com/WitBlack
 
 📧 E-Mail:
 admin@bugzone.ir
+
 
 
 Progarmmer Info:
