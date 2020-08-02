@@ -70,11 +70,17 @@ For install deepens of Snake URLs you just need run the following commands one b
 Deepens Of Packages:
 -
   - Python2 or Python3
-  - Python lib googlesearch V >= 2.0.3
-  - Python lib os
-  - Python lib str
+  - googlesearch V >= 2.0.3 Python lib 
+  - os Python lib
+  - str Python lib
   - pip package
-
+  - mv
+  - rm
+  - chmod
+  - touch
+  - echo
+  - pip
+  - apt ( only for debian systems )
 
 Contact us:
 -
