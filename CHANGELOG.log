@@ -26,3 +26,4 @@ V 1.0.4:
 1. Some Lines Changed.
 2. Fixed Bugs.
 3. Improved installation script.
+4. Using TIP disable and deleted becase we don't suport it.
