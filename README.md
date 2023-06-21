@@ -96,30 +96,8 @@ Deepens Of Packages:
 
 
 
-Contact us:
--
-💬 Telegram:
-Https://t.me/WitBlack_ch
-
-💻 Web:
-Https://BugZone.ir
-
-📹 YouTube:
-https://www.youtube.com/channel/UCIgk2ldVeelyaHW3s4UkIIg (WitBlack)
-
-📱 Instagram:
-https://instagram.com/WitBlack80
-
-⌨️ Github:
-Https://github.com/WitBlack
-
-📧 E-Mail:
-admin@bugzone.ir
-
-
-
 Progarmmer Info:
 -
 Writen By WitBlack Hacker. Https://BugZone.ir/
 VERSION: 1.0.4
-COPY RIGHT 2021
+COPY RIGHT 2023
